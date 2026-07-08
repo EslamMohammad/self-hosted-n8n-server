@@ -36,20 +36,16 @@ The environment was configured on a physical machine and is used to host automat
 
 ### Docker Containers
 
-![Docker](screenshots/docker-ps.png)
+![Docker](docker_images.jpg)
 
 ### System Information
 
-![System](screenshots/neofetch.png)
+![System](fastfetch.jpg)
 
 ### Running Services
 
-![Services](screenshots/services.png)
-
-### Resource Usage
-
-![htop](screenshots/htop.png)
+![Services](services.jpg)
 
 ### Cloudflared
 
-![Cloudflared](screenshots/cloudflared-service.png)
+![Cloudflared](cloud_flare_tunnel.jpg)
